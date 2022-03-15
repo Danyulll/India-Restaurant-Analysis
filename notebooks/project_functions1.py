@@ -4,7 +4,7 @@ import pandas as pd
 #Define clean_and_merge_zomato() method
 def clean_and_merge_zomato(zomato_file_path, country_codes_file_path):
     """
-    Loads, cleans, processes, and wrangle zomato.csv and Country-Code.xlsx
+    Loads, cleans, processes, and wrangles zomato.csv and Country-Code.xlsx
     
     Arguments:
     zomato_file_path - (str) the file path for the zomato.csv
